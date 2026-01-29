@@ -1,6 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
+Visti here :https://audio-bloom-jet.vercel.app/
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
